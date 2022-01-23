@@ -10,6 +10,10 @@ Quick and dirty. Based off Microsoft Comic Chat. Uses node.js and websockets.
 
 This is a scratch-pad to develop patches from a heavily modified version of gyng's Compic Chat for Node.  Please don't get attached to this fork.  Interesting improvements will be headed back upstream as soon as they are looking stable. -Corwin
 
+## The C2E2 Project
+
+C2E2 a rewrite of Comic Chat using ES5 classes focusing on scalability and introducing a concept of trusted connections using a private TLS socket introduced between the server and the IRC relay which enables additional messages types not directly avialable via the public websocket.   I'm not an heavy user of GH, but you can find such active development as I've managed to push over on my SourceHut, here:  https://sr.ht/~mplscorwin/C2E2/
+
 ## Features
 
 * Comic chat
