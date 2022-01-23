@@ -6,6 +6,10 @@ Quick and dirty. Based off Microsoft Comic Chat. Uses node.js and websockets.
 
 ![Screenshot](http://i.imgur.com/J1k7iwn.png)
 
+# About this Fork
+
+This is a scratch-pad to develop patches from a heavily modified version of gyng's Compic Chat for Node.  Please don't get attached to this fork.  Interesting improvements will be headed back upstream as soon as they are looking stable. -Corwin
+
 ## Features
 
 * Comic chat
